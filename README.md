@@ -14,7 +14,7 @@
 📱 Una buena cantidad de proyectos Android totalmente actualizados a las últimas tecnologías. 📱
 
 
-## Lo que utilizo en mis proyectos 🔥🔥🔥
+## Lo que utilizo en mis proyectos 🔥
 
 * Kotlin
 * Jetpack Compose
