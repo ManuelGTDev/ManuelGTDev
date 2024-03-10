@@ -25,7 +25,7 @@
 * Clean Architecture & MVVM
 * Firebase
 
-## Más información sobre mi 😎
+## Más información sobre mí 😎
   <p>
     ✨ Tengo varios años de experiencia como programador.
     <br />
