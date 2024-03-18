@@ -16,12 +16,13 @@
 
 ## Lo que utilizo en mis proyectos 🔥
 
-* Kotlin
+* Kotlin & Java
 * Jetpack Compose
+* XML
 * Dagger Hilt
 * Coroutines
 * Room Database
-* Retrofit
+* Retrofit2
 * Clean Architecture & MVVM
 * Firebase
 
