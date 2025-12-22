@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <p align="center">
-    ⭐ Una persona apasionada por el desarrollo de aplicaciones móviles ⭐
+    ⭐ Desarrollador de aplicaciones móviles con 3 años de experiencia. He trabajado en el diseño y desarrollo de apps nativas para Android e iOS, tanto propias como para la administración pública, aplicando buenas prácticas, arquitecturas modernas y tecnologías actuales. ⭐
     <br />
     <br />
   </p>
@@ -11,10 +11,10 @@
 
 ## ¿Qué encontrarás en mi GitHub? 👀
 
-📱 Una buena cantidad de proyectos Android totalmente actualizados a las últimas tecnologías. 📱
+📱 Algunos proyectos de prueba en los que puedes ver mi uso de las últimas tecnologías, así como aquellos en los que estoy trabajando actualmente. Además, si quieres conocer los proyectos que tengo publicados en Play Store, puedes contactarme a través de LinkedIn. 📱
 
 
-## Lo que utilizo en mis proyectos 🔥
+## MIS TECNOLOGÍAS DESTACADAS 🔥
 
 * Kotlin
 * Jetpack Compose
@@ -34,22 +34,26 @@
 * Room Database
 * Retrofit2
 
-## Más información sobre mí 😎
-  <p>
-    ✨ Tengo más de 3 años de experiencia como programador.
-    <br />
-  </p>
-  <p>
-    💁 Siempre intento aprender cosas nuevas, me encanta.
-    <br />
-  </p>
-  <p>
-    💡 Adoro trabajar en equipo.
-    <br />
-  </p>
+## Más información sobre mí 🚀
+<p>
+  👨‍💻 Soy desarrollador Android con más de 3 años de experiencia en el desarrollo de aplicaciones móviles, enfocado en crear soluciones eficientes, escalables y bien estructuradas.
   <br />
-  
-<h3 align="center">❤️ Espero que te gusten mis proyectos ❤️</h3>
+</p>
+<p>
+  📱 Trabajo con tecnologías modernas del ecosistema Android y me esfuerzo por aplicar buenas prácticas, arquitectura limpia y código mantenible.
+  <br />
+</p>
+<p>
+  📚 Tengo una mentalidad de aprendizaje continuo y disfruto explorando nuevas herramientas y enfoques para mejorar mis habilidades profesionales.
+  <br/>
+</p>
+<p>
+  🤝 Me gusta trabajar en equipo y aportar valor tanto a nivel técnico como humano.
+  <br/>
+</p>
+<br/>
+
+<h3 align="center">❤️ ¡Gracias por visitar mi perfil! Espero que mis proyectos sean de tu interés ❤️</h3>
 
 <!--
 **ManuelGTDev/ManuelGTDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
