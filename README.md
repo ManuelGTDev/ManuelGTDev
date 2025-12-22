@@ -16,19 +16,27 @@
 
 ## Lo que utilizo en mis proyectos 🔥
 
-* Kotlin & Java
+* Kotlin
 * Jetpack Compose
-* XML
+* Clean Architecture
+* MVVM
+* Integración de IA (ChatGPT) en apps Android
+* Firebase & Google Cloud
+* Proyectos subidos a Google Play
+* Google Play Billing SDK
+* Stripe
+* Google Maps SDK
+* Navigation 3
+* Flows
 * Dagger Hilt
 * Coroutines
+* DataStore Preferences
 * Room Database
 * Retrofit2
-* Clean Architecture & MVVM
-* Firebase
 
 ## Más información sobre mí 😎
   <p>
-    ✨ Tengo varios años de experiencia como programador.
+    ✨ Tengo más de 3 años de experiencia como programador.
     <br />
   </p>
   <p>
