@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <p align="center">
-    ⭐ Desarrollador de aplicaciones móviles con 3 años de experiencia. He trabajado en el diseño y desarrollo de apps nativas para Android e iOS, tanto propias como para la administración pública, aplicando buenas prácticas, arquitecturas modernas y tecnologías actuales. ⭐
+    ⭐ Desarrollador de aplicaciones móviles con más de 3 años de experiencia. He trabajado en el diseño y desarrollo de apps nativas para Android e iOS, tanto propias como para la administración pública, aplicando buenas prácticas, arquitecturas modernas y tecnologías actuales. ⭐
     <br />
     <br />
   </p>
@@ -11,7 +11,7 @@
 
 ## ¿Qué encontrarás en mi GitHub? 👀
 
-📱 Algunos proyectos de prueba en los que puedes ver mi uso de las últimas tecnologías, así como aquellos en los que estoy trabajando actualmente. Además, si quieres conocer los proyectos que tengo publicados en Play Store, puedes contactarme a través de LinkedIn. 📱
+📱 Algunos proyectos de prueba en los que puedes ver mi uso de las últimas tecnologías, así como aquellos en los que estoy trabajando actualmente. Además, si quieres conocer los proyectos que tengo publicados en Play Store, puedes contactarme a través de LinkedIn, correo o teléfono. 📱
 
 
 ## MIS TECNOLOGÍAS DESTACADAS 🔥
@@ -22,7 +22,7 @@
 * MVVM
 * Integración de IA (ChatGPT) en apps Android
 * Firebase & Google Cloud
-* Proyectos subidos a Google Play
+* Proyectos subidos a Google Play y Apple Store
 * Google Play Billing SDK
 * Stripe
 * Google Maps SDK
