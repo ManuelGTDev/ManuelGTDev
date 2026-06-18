@@ -11,8 +11,13 @@
 
 ## ¿Qué encontrarás en mi GitHub? 👀
 
-📱 Algunos proyectos de prueba en los que puedes ver mi uso de las últimas tecnologías, así como aquellos en los que estoy trabajando actualmente. Además, si quieres conocer los proyectos que tengo publicados en Play Store, puedes contactarme a través de LinkedIn, correo o teléfono. 📱
+📱 Algunos proyectos de prueba en los que puedes ver mi uso de las últimas tecnologías. Además, si quieres conocer los proyectos que tengo publicados en Play Store, puedes contactarme a través de LinkedIn, correo o teléfono. 📱
 
+## He desarrollado varias apps para clientes finales 👨‍💻
+
+📱 Aplicaciones para la gestión de reservas y pagos en gimnasios, herramientas de administración para restaurantes, soluciones para la coordinación de equipos de cocina y sistemas de reservas para negocios, entre otros proyectos.
+
+Puedes solicitarme el CV para consultar más información sobre mi experiencia y los proyectos en los que he participado.  📱
 
 ## MIS TECNOLOGÍAS DESTACADAS 🔥
 
